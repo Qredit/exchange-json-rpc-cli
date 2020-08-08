@@ -1,0 +1,27 @@
+{
+    "name": "@arkecosystem/exchange-json-rpc-cli",
+    "version": "2.1.0",
+    "lockfileVersion": 1,
+    "requires": true,
+    "dependencies": {
+        "ansi-styles": {
+            "version": "4.1.0"
+        },
+        "chalk": {
+            "version": "3.0.0",
+            "requires": {
+                "ansi-styles": "^4.1.0",
+                "supports-color": "^7.1.0"
+            }
+        },
+        "fs-extra": {
+            "version": "8.1.0"
+        },
+        "semver": {
+            "version": "7.1.1"
+        },
+        "supports-color": {
+            "version": "7.1.0"
+        }
+    }
+}
